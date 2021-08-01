@@ -1,2 +1,2 @@
 # cpractice
-This Rep is for C Practice
+This Repo is for C Practice

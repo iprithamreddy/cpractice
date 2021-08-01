@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 
-void main()
+int main(void)
  {
 	int a,b,c;
 	printf("Enter two values:");
